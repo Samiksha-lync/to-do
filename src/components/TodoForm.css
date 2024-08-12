@@ -27,3 +27,10 @@ h1{
 .btns, .close-btn{
     border-radius: 5px;
 }
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:0.3rem;
+    margin:40px;
+}
