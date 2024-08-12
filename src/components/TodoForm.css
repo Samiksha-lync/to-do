@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(167, 212, 212);
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    height: 10px;
+    width: auto;
+}
+.text-field{
+    border: 2px solid black;
+    height: 20px;
+}
+button{
+    border: 2px solid black;
+    height: 27px;
+    color: white;
+    background-color: black;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btns, .close-btn{
+    border-radius: 5px;
+}
